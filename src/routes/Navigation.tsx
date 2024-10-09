@@ -11,7 +11,7 @@ export const Navigation = () => {
       <ul>
         <li>
           <NavLink to={"/lazy"} className={({ isActive }) => (isActive ? "nav-active" : "")}>
-            Lazy
+            Lazy1
           </NavLink>
         </li>
         <li>
